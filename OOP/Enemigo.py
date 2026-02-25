@@ -12,7 +12,7 @@ class Enemigo:
         return self.__tipo_enemigo
 
     def habla(self):
-        print(f"Yo sor {self.__tipo_enemigo}. Preparado para pelear!!")
+        print(f"Yo soy {self.__tipo_enemigo}. Preparado para pelear!!")
 
     def camina(self):
         print(f"{self.__tipo_enemigo} se mueve cerca de ti!!!")
