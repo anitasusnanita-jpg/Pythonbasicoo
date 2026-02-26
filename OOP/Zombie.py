@@ -8,5 +8,4 @@ class Zombie(Enemigo):
             print("*Hummmmm...*")
 
         def propagar_enfermedad(self):
-            print("El zombie esta tratando de propagar la enfermedad!!!")
-                
+            print("El zombie esta tratando de propagar la enfermedad!!!")            
